@@ -1,0 +1,24 @@
+! -----------------------------------------------------------------------------
+! Rick color scheme
+! -----------------------------------------------------------------------------
+
+*foreground:        #676767
+*background:        #FAFAFA
+
+! Colors 0-15.
+*color0:  #0d0e0d
+*color1:  #56d9ad
+*color2:  #56d9ad
+*color3:  #a3d900
+*color4:  #4dbf98
+*color5:  #a37acc
+*color6:  #41a5d9
+*color7:  #41a5d9
+*color8:  #a09c9a
+*color9:  #a3d900
+*color10: #a3d900
+*color11: #53AD9F
+*color12: #a3d900
+*color13: #a3d900
+*color14:  #ACBEC0
+*color15:  #e5e0dc
